@@ -37,20 +37,9 @@ An **AI-powered study planner** that creates **personalized, day-wise study sche
 
 ## 📂 Project Structure
 
-text
 AI-STUDY-PLANNER/
-│
-├── __pycache__/        # Python cache files
-├── .env                # Environment variables (not pushed to GitHub)
-├── .gitignore          # Git ignore rules
-├── app.py              # Streamlit user interface
-├── graph.py            # LangGraph workflow logic
-├── llm.py              # Groq LLaMA-3 integration
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+<img width="332" height="269" alt="image" src="https://github.com/user-attachments/assets/ea04cc68-0d95-4be5-87de-943a9c4567aa" />
 
-
----
 
 
 ## 🧠 How This Project Works
@@ -77,6 +66,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
