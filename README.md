@@ -44,22 +44,25 @@ An **AI-powered study planner** that creates **personalized, day-wise study sche
 ## 📤 Output Structure
 
 The application generates a **day-wise personalized study plan** based on the user’s syllabus and available time.
+### input format
+<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/8baa054a-a37f-41c4-9d1b-37e6c98f8ce1" />
+
 
 ### 🔹 Output Format
-Sample Output (Rendered in UI)
-📅 Day 1
-Topic: Python Basics
-Study Time: 3 hours
+##Sample Output (Rendered in UI)
+##📅 Day 1
+##Topic: Python Basics
+##Study Time: 3 hours
 
-Explanation:
+##Explanation:
 Python is a high-level programming language known for its simplicity and readability.
 It is widely used for web development, data analysis, and machine learning.
 
-📅 Day 2
-Topic: Data Structures
-Study Time: 3 hours
+##📅 Day 2
+##Topic: Data Structures
+##Study Time: 3 hours
 
-Explanation:
+##Explanation:
 Data structures are ways to store and organize data efficiently.
 Examples include arrays, linked lists, stacks, and queues.
 
@@ -72,6 +75,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
