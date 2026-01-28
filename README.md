@@ -70,6 +70,9 @@ It is widely used for web development, data analysis, and machine learning.
 Data structures are ways to store and organize data efficiently.
 Examples include arrays, linked lists, stacks, and queues.
 
+
+
+
 ## 📬 Contact
 
 If you’d like to discuss this project, collaborate, or provide feedback, feel free to reach out:
@@ -79,6 +82,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
