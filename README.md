@@ -52,9 +52,7 @@ The application generates a **day-wise personalized study plan** based on the us
 --
 
 ##Sample Output (Rendered in UI)
---
 ##📅 Day 1
---
 ##Topic: Python Basics
 ##Study Time: 3 hours
 
@@ -82,6 +80,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
